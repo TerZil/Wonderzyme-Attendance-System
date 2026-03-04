@@ -1,0 +1,16 @@
+# Python virtual env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+pyvenv.cfg
+
+# Database backups / temp files
+*.db-journal
+*.sqlite3-journal
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
